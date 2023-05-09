@@ -1,0 +1,58 @@
+{
+  "projects": [
+    {
+      "date": "11/10/2022",
+      "title": "VIDEO HUB",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://react-video-app-xi.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+    },
+    {
+      "date": "15/10/2022",
+      "title": "XCrypto",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://react-crypto-app-one-mu.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+    },
+
+    {
+      "date": "17/10/2022",
+      "title": "REACT CART",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://react-cart-jade.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+    },
+
+    {
+      "date": "17/10/2022",
+      "title": "Keepar App",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://keepar-app.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/online-4694470_960_720.jpg"
+    },
+    {
+      "date": "20/10/2022",
+      "title": "PORTFOLIO",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+    }
+  ],
+  "testmonial": [
+    {
+      "name": "JavaScript",
+      "feedback": "JavaScript is a lightweight programming language.",
+      "imgSrc": "https://cdn-icons-png.flaticon.com/128/5968/5968292.png"
+    },
+    {
+      "name": "React JS",
+      "feedback": "ReactJS is a JavaScript front-end library.",
+      "imgSrc": "https://cdn-icons-png.flaticon.com/512/875/875209.png"
+    },
+    {
+      "name": "Node JS",
+      "feedback": "NodeJS is a backend framework of JavaScript.",
+      "imgSrc": "https://cdn-icons-png.flaticon.com/256/919/919825.png"
+    }
+  ]
+}
